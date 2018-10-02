@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\od\desktop\gui-hw2\win32draw2\win32draw\source.cpp(88): warning C4101: 'str': unreferenced local variable
+  LINK : C:\Users\OD\Desktop\GUI-HW2\Win32Draw2\Debug\Win32Draw.exe not found or not built by the last incremental link; performing full link
+  Win32Draw.vcxproj -> C:\Users\OD\Desktop\GUI-HW2\Win32Draw2\Debug\Win32Draw.exe
